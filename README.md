@@ -100,7 +100,7 @@ An intelligent surveillance robot built using Raspberry Pi, YOLO object detectio
 
 Here are some pictures showcasing the robot in action and its components.
 
-![Robot Image 1](./images/robot1.png)
+![Robot Image 1](./images/IMG-20250515-WA0009.JPG)
 *Robot Image 1: Front view of the battlefield surveillance robot.*
 
 ![Robot Image 2](./images/robot2.png)
