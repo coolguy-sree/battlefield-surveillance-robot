@@ -106,7 +106,7 @@ Here are some pictures showcasing the robot in action and its components.
 ![Robot Image 2](./images/IMG-20250515-WA0013.JPG)
 *Robot Image 2: Top view highlighting the  Raspberrypi, sensors and camera.*
 
-![Robot Image 3](./images/IMG-20250515-WA0013.JPG)
+![Robot Image 3](./images/IMG-20250515-WA0012.JPG)
 *Robot Image 3: Robot in operation during a field test.*
 
 ---
