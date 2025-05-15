@@ -103,8 +103,8 @@ Here are some pictures showcasing the robot in action and its components.
 ![Robot Image 1](./images/IMG-20250515-WA0009.JPG)
 *Robot Image 1: Front view of the battlefield surveillance robot.*
 
-![Robot Image 2](./images/robot2.png)
-*Robot Image 2: Side view highlighting the sensors and camera.*
+![Robot Image 2](./images/IMG-20250515-WA0013.JPG)
+*Robot Image 2: Top view highlighting the  Raspberrypi, sensors and camera.*
 
 ![Robot Image 3](./images/robot3.png)
 *Robot Image 3: Robot in operation during a field test.*
