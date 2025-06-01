@@ -83,7 +83,7 @@ An intelligent surveillance robot built using Raspberry Pi, YOLO object detectio
 ## 📸 Screenshots
 
 ### 🎮 Robot Control GUI
-![Robot Control GUI](./images/Screenshot 2025-06-01 222039.png)
+![Robot Control GUI](./images/5.jpg)
 
 
 ### 🔍 Fire and Landmine Detection 
